@@ -14,6 +14,7 @@ To run the demonstration example, please download the .csv-file
 of the MNIST dataset from this website (https://www.python-course.eu/neural_network_mnist.php)
 ("Reading the MNIST data set"), place the files into the MNIST_data_csv-folder and run
 csvToPklMNIST.py.
+You can also draw your own image and let the neural network predict it!
 
 # Performance on MNIST
 An exemplary neural network achieves a 95.16% test-accuracy after one training epoch.
